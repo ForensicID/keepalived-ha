@@ -1,1 +1,1 @@
-# ⚖️ High Availability Load Balancer (HAProxy + Keepalived)
+# High Availability Load Balancer (HAProxy + Keepalived)
